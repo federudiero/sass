@@ -1,0 +1,59 @@
+.imgfooter {
+  height: 50px;
+  width: 50px;
+  border-radius: border-radius 90%;
+}
+
+.div__titulo-rja {
+  background-color: goldenrod;
+}
+
+h1 {
+  color: black;
+}
+
+.div__imagen-logo {
+  background-color: goldenrod;
+}
+
+.div__imagen-logo .imglogo {
+  height: 300px;
+  width: auto;
+  border-radius: 50%;
+  padding: 15px;
+}
+
+.div-materiales {
+  height: 110px;
+  color: #aaaaa9;
+  padding: 20px;
+}
+
+.div-tarjeta {
+  background-color: goldenrod;
+}
+
+.div-tarjeta .imgmateriales {
+  height: 300px;
+  width: 300px;
+  border-radius: 90%;
+  padding: 10px;
+  -webkit-transition: 2s;
+  transition: 2s;
+}
+
+.div-tarjeta .imgmateriales:hover {
+  height: 400px;
+  width: 400px;
+  border-radius: 90%;
+  padding: 10px;
+  -webkit-transition: 2s;
+  transition: 2s;
+}
+
+.div__proyecto {
+  height: 110px;
+  color: #aaaaa9;
+  padding: 20px;
+}
+/*# sourceMappingURL=style.css.map */

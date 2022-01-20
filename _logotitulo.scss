@@ -1,0 +1,33 @@
+$background-color:
+  	rgb(218, 165, 32);
+$colorh1: black;     
+
+
+
+
+
+.div__titulo-rja{
+    background-color: $background-color
+    
+    
+
+
+}
+h1{
+    color: $colorh1;
+
+}
+
+
+
+.div__imagen-logo{
+    background-color:	$background-color;
+    
+    .imglogo{
+        height: 300px;
+        width: auto;
+        border-radius: 50%;
+        padding: 15px;
+        
+    }
+}

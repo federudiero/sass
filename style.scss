@@ -1,0 +1,43 @@
+@import "footer";
+@import "logotitulo";
+
+$height:110px;
+
+
+$padding:20px;
+
+
+.div-materiales{
+    
+    height:$height;
+    color: rgb(170, 170, 169);
+    padding:$padding;
+}
+.div-tarjeta{
+    background-color: 	rgb(218, 165, 32);
+
+
+    .imgmateriales{
+    height: 300px;
+    width: 300px;
+    border-radius: 90%;
+    padding: 10px;
+    transition: 2s;
+    
+   
+}
+.imgmateriales:hover{
+    height: 400px;
+    width: 400px;
+    border-radius: 90%;
+    padding: 10px;
+    transition: 2s;
+    }
+
+}
+.div__proyecto{
+    height:$height;
+    color:rgb(170, 170, 169);
+    padding:$padding;
+}
+
